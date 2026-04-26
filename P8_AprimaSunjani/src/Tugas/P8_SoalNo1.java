@@ -1,7 +1,7 @@
-package Soal;
+package Tugas;
 import java.util.Scanner;
 
-public class P8_SoalNo1 {
+    public class P8_SoalNo1 {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             String pilihan;

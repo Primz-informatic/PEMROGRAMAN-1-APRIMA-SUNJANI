@@ -1,5 +1,6 @@
-package Soal;
+package Tugas;
 import java.util.Scanner;
+
 public class P8_SoalNo3 {
 
         public static void main(String[] args) {
@@ -26,4 +27,4 @@ public class P8_SoalNo3 {
             System.out.println("Jumlah data: " + jumlahData);
             System.out.println("Rata-rata nilai: " + rataRata);
         }
-}
+    }

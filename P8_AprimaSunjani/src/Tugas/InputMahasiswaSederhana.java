@@ -1,7 +1,8 @@
-package tugas_drive_Aprima;
+package Tugas;
 import java.util.Scanner;
 
-    public class InputMahasiswaSederhana {
+public class InputMahasiswaSederhana {
+
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             char ulang;
